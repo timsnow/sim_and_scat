@@ -35,7 +35,7 @@ deploy:
   repo: arm61/sim_and_scat
   target-branch: gh-pages
   local-dir: html
-  github_token: $GITHUB_TOKEN
+  github_token: "JPDV4OmgAGJjdkBKrIOHdeKMHVWSJyIZa95mCy+WfHKaZRTMwuW9chYXx3I3Ly1FYuD7QR7/72yYuocSzeAH91n/hWGuReI+LbXYM7nh3b40omF0z2a36ORqblR1rSc/B5Hc7O7WtB08102haTTTjPOS5abjSo0XjfzQMibrCljwuITu0MVrC+8iv1/Bvj94jp+aFbKsQgoNNtDzyGGkRzdMdjMuBZM/cSYHI/neQa/8VLqaWGkKj/PcEnEQ4j2b35F838+H4I5g7EJkbEZZyGlX3E7wPD/Sflg8ayKoC4SOql0jkryf7AaInFnEG+v+f+4RsecoaOAptbR/gAnmmn0kgxDHDMJQDpY6L5K9P5GspJegcThODlHB/YPo/9SX+Sct4Mf14pHgFDbQyA5AU7JJH7GvngyxxndUEXWHRiMrB3e/Fc9NtPT4YkRVhue+uMHxBda/k+sr1efBUSQtWfa2TSFateBnk6PuCKnnPiCWmwE1IK3+z3YpTAezx4YzBZJpqV+LIDZcPF92YcFb14+VDZ4v5Oa75jtFCF/1Ks+ejGnAojuL4SEku7/GYEAzfiWFGDktrwD96MnuAodm4tcOuDHKazn0i6xquX708jj4BS0h3elwtIcRRKDJX2hX8vL81XV23zoSqx0PoDdx6CUzVIJDDFsOQgFxM2jszpI="
   skip-cleanup: true
   on:
     branch: master
