@@ -8,6 +8,8 @@
 
 <h4> <sup>a</sup> Department of Chemistry, University of Bath, Claverton Down, Bath, BA2 7AY, UK. <br><sup>b</sup> Diamond Light Source, Diamond House, Rutherford Appleton Laboratory, Harwell Oxford, OX11 0DE, UK. </h4>
 
+[![Build Status](https://travis-ci.org/arm61/sim_and_scat.svg?branch=master)](https://travis-ci.org/arm61/sim_and_scat)
+
 ## Acknowledgements
 
-ARM is grateful to the University of Bath and Diamond Light Source for co-funding a studentship (Studentship Number STU0149). BJM acknowledges support from the Royal Society (Grant No. UF130329). 
+ARM is grateful to the University of Bath and Diamond Light Source for co-funding a studentship (Studentship Number STU0149). BJM acknowledges support from the Royal Society (Grant No. UF130329).
