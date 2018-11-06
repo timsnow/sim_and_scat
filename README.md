@@ -1,7 +1,7 @@
 # The interaction between simulation and scattering
 
 <h2> <a href="https://arm61.github.io">A. R. McCluskey</a>,<sup>a,b</sup>
-<a href="https://people.bath.ac.uk/ars44">A. R. Symington</a>,<sup>a</sup>
+<a href="https://symmy596.github.io">A. R. Symington</a>,<sup>a</sup>
 <a href="http://www.analysisandsynthesis.com/">B. J. Morgan</a>,<sup>a</sup>
 <a href="https://people.bath.ac.uk/chske/">K. J. Edler</a>,<sup>a</sup>
 <a href="https://people.bath.ac.uk/chsscp/">S. C. Parker</a><sup>a</sup>
