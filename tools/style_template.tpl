@@ -67,6 +67,15 @@
 </div>
 </div>
 
+{% elif 'References' in title %}
+
+<div class="text_cell_render border-box-sizing rendered_html">
+<div class="w3-panel w3-leftbar w3-border-green w3-pale-green w3-padding-small">
+    <h3> <i class="fa fa-book"></i></i>{{ title.lstrip('#') }}</h3>
+    {{ srclist[1:] | join('\n') | markdown2html | strip_files_prefix }}
+</div>
+</div>
+
 {% else %}
 
 <div class="text_cell_render border-box-sizing rendered_html">
