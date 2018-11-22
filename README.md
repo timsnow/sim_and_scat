@@ -9,7 +9,7 @@
 
 <h4> <sup>1</sup> Department of Chemistry, University of Bath, Claverton Down, Bath, BA2 7AY, UK. <br><sup>2</sup> Diamond Light Source, Diamond House, Rutherford Appleton Laboratory, Harwell Oxford, OX11 0DE, UK. <br><sup>3</sup> Computing Services, University of Bath, Claverton Down, Bath, BA2 7AY, UK. </h4>
 
-This is an open educational resource designed to introdcued users of scattering and diffraction to molecular simulation. 
+This is the repository for an open educational resource designed to introduce users of scattering and diffraction to molecular simulation. 
 This is inspired by the popularity of molecular dynamics simulations as a tool to aid in the analysis of scattering experiments. 
 
 The resource can be found online at [arm61.github.io/sim_and_scat/00_schedule.html](https://arm61.github.io/sim_and_scat/00_schedule.html). 
