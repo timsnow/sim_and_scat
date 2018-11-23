@@ -15,16 +15,15 @@ setup(name='sim_and_scat',
 	  	'numpy',
 	  	'scipy',
 	  	'pylj',
-	  	'conda',
-	  	'matplotlib'
+	  	'matplotlib',
+	  	'jupyter'
 	  ],
 	  install_requires=[
 	  	'numpy',
 	  	'scipy',
 	  	'pylj',
-	  	'conda',
 	  	'matplotlib',
-	  	'notebook'
+	  	'jupyter'
 	  ],
 	  long_description=long_description,
       long_description_content_type="text/markdown",)
