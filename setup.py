@@ -2,6 +2,9 @@
 
 from setuptools import setup
 
+with open("README.md", "r") as fh:
+    long_description = fh.read()
+
 setup(name='sim_and_scat',
 	  version='0.0.1',
 	  description='Python package to build appropriate environment for running the sim_and_scat open educational resource',
@@ -22,4 +25,6 @@ setup(name='sim_and_scat',
 	  	'conda',
 	  	'matplotlib',
 	  	'notebook'
-	  ])
+	  ],
+	  long_description=long_description,
+      long_description_content_type="text/markdown",)
